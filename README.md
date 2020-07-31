@@ -117,8 +117,7 @@ npm -v
 ```
 
 ### BlockChain start
-download /fabric-bin from https://github.com/pangzixiang/workspace_fabric-bin and put it into /HyperledgerFabric/
-then run this shell script
+run this shell script
 ```shell script
 ./initBlockChain.sh
 ```
